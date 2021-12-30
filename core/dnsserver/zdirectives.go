@@ -10,6 +10,15 @@ package dnsserver
 // (after) them during a request, but they must not
 // care what plugin above them are doing.
 var Directives = []string{
+	"git",
+	"records",
+	"mysql",
+	"redisc",
+	"dump",
+	"pdsql",
+	"pdsql_mysql",
+	"pdsql_sqlite",
+	"pdsql_postgresql",
 	"metadata",
 	"geoip",
 	"cancel",
