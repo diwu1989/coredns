@@ -14,7 +14,7 @@ require (
 	github.com/coredns/caddy v1.1.1
 	github.com/coredns/records v0.0.0-20200925060655-e8b4cfd762aa
 	github.com/diwu1989/coredns-pdsql v0.0.0-20220101072837-42bf3b5dbee6
-	github.com/diwu1989/coredns-unstoppable-domain v0.0.0-20220101084932-f1e78e5b04eb
+	github.com/diwu1989/coredns-unstoppable-domain v0.0.0-20220101094923-ead3c81352d9
 	github.com/dnstap/golang-dnstap v0.4.0
 	github.com/farsightsec/golang-framestream v0.3.0
 	github.com/golang/protobuf v1.5.2
@@ -37,6 +37,7 @@ require (
 	github.com/prometheus/client_model v0.2.0
 	github.com/prometheus/common v0.32.1
 	github.com/stretchr/objx v0.2.0 // indirect
+	github.com/unstoppabledomains/resolution-go v1.1.2 // indirect
 	github.com/wealdtech/coredns-ens v1.3.1
 	github.com/wenerme/coredns-pdsql v0.0.0-20210602104047-05e53f76d3f4
 	go.etcd.io/etcd/api/v3 v3.5.1

@@ -259,6 +259,10 @@ github.com/diwu1989/coredns-pdsql v0.0.0-20220101072837-42bf3b5dbee6 h1:DaKY7jKn
 github.com/diwu1989/coredns-pdsql v0.0.0-20220101072837-42bf3b5dbee6/go.mod h1:mSV69zS5YjW5cvYRLlYWMGk3gjl4hq70fby3WJgi+LI=
 github.com/diwu1989/coredns-unstoppable-domain v0.0.0-20220101084932-f1e78e5b04eb h1:ryx8L67kDOdhU5QWMGRliPxibu4NIPd/QcwDU4+wtM0=
 github.com/diwu1989/coredns-unstoppable-domain v0.0.0-20220101084932-f1e78e5b04eb/go.mod h1:9sU+9PiAzB1WZpTqcztPV1TBPUkyHcxjcZxms4tN05E=
+github.com/diwu1989/coredns-unstoppable-domain v0.0.0-20220101092808-5a3a94aba428 h1:+gGGwltpn0f4bqheL24/ZwbIxKAJExNcRvNY+t0d6HI=
+github.com/diwu1989/coredns-unstoppable-domain v0.0.0-20220101092808-5a3a94aba428/go.mod h1:9sU+9PiAzB1WZpTqcztPV1TBPUkyHcxjcZxms4tN05E=
+github.com/diwu1989/coredns-unstoppable-domain v0.0.0-20220101094923-ead3c81352d9 h1:pIMKnyYMu4wFLkpsm5wK2uH2mAPvqcdinToj/MHrwLw=
+github.com/diwu1989/coredns-unstoppable-domain v0.0.0-20220101094923-ead3c81352d9/go.mod h1:C5YRFp/y0o8TwbaayOVjL+4nSzmL2130ju4CAizKq1w=
 github.com/dlclark/regexp2 v1.2.0/go.mod h1:2pZnwuY/m+8K6iRw6wQdMtk+rH5tNGR1i55kozfMjCc=
 github.com/dnstap/golang-dnstap v0.0.0-20170829151710-2cf77a2b5e11/go.mod h1:s1PfVYYVmTMgCSPtho4LKBDecEHJWtiVDPNv78Z985U=
 github.com/dnstap/golang-dnstap v0.4.0 h1:KRHBoURygdGtBjDI2w4HifJfMAhhOqDuktAokaSa234=
@@ -906,6 +910,8 @@ github.com/tyler-smith/go-bip39 v1.0.2 h1:+t3w+KwLXO6154GNJY+qUtIxLTmFjfUmpguQT1
 github.com/tyler-smith/go-bip39 v1.0.2/go.mod h1:sJ5fKU0s6JVwZjjcUEX2zFOnvq0ASQ2K9Zr6cf67kNs=
 github.com/unstoppabledomains/resolution-go v1.1.2 h1:+iqYXhLH5DGKuMtgflOC+PC6qKuxRWbmfWnA1VQA2HA=
 github.com/unstoppabledomains/resolution-go v1.1.2/go.mod h1:KqZVP8/WH3Oq/kpTfzCfWYNsskvbdSWdQHYibV0NUU8=
+github.com/unstoppabledomains/resolution-go/v2 v2.0.0 h1:rC4JPb20kc8mULG0JMJkB83Q5rKvzKiT041LoUUWiqs=
+github.com/unstoppabledomains/resolution-go/v2 v2.0.0/go.mod h1:86vB9r5o48mo8yhBBcZxnTZ03/kov8MAJzsCWTPiLmU=
 github.com/urfave/cli v1.20.0/go.mod h1:70zkFmudgCuE/ngEzBv17Jvp/497gISqfk5gWijbERA=
 github.com/urfave/cli v1.22.1/go.mod h1:Gos4lmkARVdJ6EkW0WaNv/tZAAMe9V7XWyB60NtXRu0=
 github.com/urfave/cli/v2 v2.3.0/go.mod h1:LJmUH05zAU44vOAcrfzZQKsZbVcdbOG8rtL3/XcUArI=
