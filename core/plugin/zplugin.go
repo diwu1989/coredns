@@ -55,11 +55,11 @@ import (
 	_ "github.com/coredns/coredns/plugin/transfer"
 	_ "github.com/coredns/coredns/plugin/whoami"
 	_ "github.com/coredns/records"
+	_ "github.com/diwu1989/coredns-pdsql"
 	_ "github.com/jinzhu/gorm/dialects/mysql"
 	_ "github.com/jinzhu/gorm/dialects/postgres"
 	_ "github.com/jinzhu/gorm/dialects/sqlite"
 	_ "github.com/miekg/coredns-git"
 	_ "github.com/miekg/dump"
 	_ "github.com/miekg/redis"
-	_ "github.com/wenerme/coredns-pdsql"
 )
