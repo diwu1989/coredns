@@ -66,6 +66,7 @@ var Directives = []string{
 	"pdsql_mysql",
 	"pdsql_sqlite",
 	"pdsql_postgresql",
+	"unstoppable",
 	"redisc",
 	"dump",
 }
