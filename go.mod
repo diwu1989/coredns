@@ -14,7 +14,7 @@ require (
 	github.com/coredns/caddy v1.1.1
 	github.com/coredns/records v0.0.0-20200925060655-e8b4cfd762aa
 	github.com/diwu1989/coredns-pdsql v0.0.0-20220101072837-42bf3b5dbee6
-	github.com/diwu1989/coredns-unstoppable-domain v0.0.0-20220101094923-ead3c81352d9
+	github.com/diwu1989/coredns-unstoppable-domain v0.0.0-20220101200839-d7cd9d65a330
 	github.com/dnstap/golang-dnstap v0.4.0
 	github.com/farsightsec/golang-framestream v0.3.0
 	github.com/golang/protobuf v1.5.2
