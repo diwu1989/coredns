@@ -269,6 +269,8 @@ github.com/diwu1989/coredns-unstoppable-domain v0.0.0-20220102043829-f30e5d1e623
 github.com/diwu1989/coredns-unstoppable-domain v0.0.0-20220102043829-f30e5d1e6233/go.mod h1:4iU0Few6JAE5o/9Aq5B1sTdhxQ5+L1Dqy5CVrcOfe00=
 github.com/diwu1989/coredns-unstoppable-domain v0.0.0-20220102045909-819483ecc280 h1:9K1Mv7eYWyXSzplyKij3rLDZCB5FFPsdcyId5pyqqHQ=
 github.com/diwu1989/coredns-unstoppable-domain v0.0.0-20220102045909-819483ecc280/go.mod h1:4iU0Few6JAE5o/9Aq5B1sTdhxQ5+L1Dqy5CVrcOfe00=
+github.com/diwu1989/coredns-unstoppable-domain v0.0.0-20220212233025-1599118a2f25 h1:bkYMOA7RSP/q5+VtnVi35H8hsIROJEI2kxPidrjaqfE=
+github.com/diwu1989/coredns-unstoppable-domain v0.0.0-20220212233025-1599118a2f25/go.mod h1:4iU0Few6JAE5o/9Aq5B1sTdhxQ5+L1Dqy5CVrcOfe00=
 github.com/dlclark/regexp2 v1.2.0/go.mod h1:2pZnwuY/m+8K6iRw6wQdMtk+rH5tNGR1i55kozfMjCc=
 github.com/dnstap/golang-dnstap v0.0.0-20170829151710-2cf77a2b5e11/go.mod h1:s1PfVYYVmTMgCSPtho4LKBDecEHJWtiVDPNv78Z985U=
 github.com/dnstap/golang-dnstap v0.4.0 h1:KRHBoURygdGtBjDI2w4HifJfMAhhOqDuktAokaSa234=

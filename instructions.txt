@@ -1,0 +1,7 @@
+Run go get to retrieve latest dependency
+go get github.com/diwu1989/coredns-unstoppable-domain@latest
+
+Update the plugin.cfg, then run make gen
+
+Then build the release with
+make -f Makefile.release release
